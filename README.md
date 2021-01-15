@@ -4,7 +4,7 @@
 
 
 ## I'm a Software Engineer Student !
-- ✍ You can find my projects here [portfolio]
+- ✍ You can find my projects [here]
 - 🌱 I’m currently learning React Native
 - 👯 I’m looking to collaborate on open source
 - 💬 Ask me about ... Anything
@@ -41,6 +41,6 @@
 
 
 [Temporary]: https://github.com/VincentBernet
-[portfolio]: https://github.com/VincentBernet?tab=repositories
+[here]: https://github.com/VincentBernet?tab=repositories
 [instagram]: https://linktr.ee/VincentBernet
 [linkedin]: https://www.linkedin.com/in/vincent-bernet-028a64193/
