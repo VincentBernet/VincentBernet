@@ -28,7 +28,7 @@
 
 [<img height="26px" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/php.svg">][Temporary]
 [<img align="left" alt="CSharp" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />][Temporary]
-[<img align ="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/java.svg" />][Temporary]
+[<img align ="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />][Temporary]
 
 
 
