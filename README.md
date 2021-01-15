@@ -25,7 +25,7 @@
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][Temporary]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][Temporary]
 [<img align="left" alt="CSharp" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />][Temporary]
-<code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/php.svg"></code>
+<code><img width="26px" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/php.svg"></code>
 
 
 <br />
