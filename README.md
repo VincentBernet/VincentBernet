@@ -13,6 +13,7 @@
 
 ### Contact me :
 [<img align="left" alt="Vincent Bernet | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Vincent Bernet | Linktr" width="22px" src="https://img.icons8.com/color/48/000000/linktree.svg"/>][linktr]
 
 <br />
 
@@ -42,5 +43,5 @@
 
 [Temporary]: https://github.com/VincentBernet
 [here]: https://github.com/VincentBernet?tab=repositories
-[instagram]: https://linktr.ee/VincentBernet
+[linktr]: https://linktr.ee/VincentBernet
 [linkedin]: https://www.linkedin.com/in/vincent-bernet-028a64193/
