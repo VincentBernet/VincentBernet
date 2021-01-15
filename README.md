@@ -34,6 +34,6 @@
 
 
 
-[portofolo]: https://github.com/VincentBernet?tab=repositories
+[portfolio]: https://github.com/VincentBernet?tab=repositories
 [instagram]: https://linktr.ee/VincentBernet
 [linkedin]: https://www.linkedin.com/in/vincent-bernet-028a64193/
