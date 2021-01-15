@@ -5,7 +5,8 @@
 
 ## I'm a Software Engineer Student !
 - ✍ You can find my projects [here]
-- 🌱 I’m currently learning React Native
+- :chart_with_upwards_trend: I’m currently working on my own portofollio
+- 🌱 Learning Vue.js to build it 
 - 👯 I’m looking to collaborate on open source
 - 💬 Ask me about ... Anything
 - ⚡ Fun fact: With my team we are 2019 french student champion on League of Legend
