@@ -1,6 +1,6 @@
 ### Hello World, I'm Vincent 👋
 
- <img align="right" alt="GIF" src="https://miro.medium.com/max/2400/1*CgjvOHqRTMXw2i8m7Mdo0w.gif" height="400" />
+ <img align="right" alt="GIF" src="https://miro.medium.com/max/2400/1*CgjvOHqRTMXw2i8m7Mdo0w.gif" height="350" />
 
 
 ## I'm a Software Engineer Student !
