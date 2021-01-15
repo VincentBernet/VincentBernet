@@ -13,7 +13,7 @@
 
 
 ### Contact me :
-[<img align="left" alt="Vincent Bernet | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Vincent Bernet | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Vincent Bernet | Linktr" width="22px" src="https://img.icons8.com/color/48/000000/linktree.svg"/>][linktr]
 
 <br />
