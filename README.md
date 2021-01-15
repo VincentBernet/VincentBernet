@@ -26,12 +26,11 @@
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][Temporary]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][Temporary]
 
-[<img height="26px" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/php.svg">][Temporary]
+[<img align="left" alt="Php" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png">][Temporary]
 [<img align="left" alt="CSharp" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />][Temporary]
 [<img align ="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />][Temporary]
 [<img align ="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][Temporary]
 
-[<img align ="left" alt="Git" width="26px" src="https://avatars2.githubusercontent.com/u/54962581?s=48&v=4" />][Temporary]
 
 <br />
 <br />
