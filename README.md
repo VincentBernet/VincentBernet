@@ -1,6 +1,6 @@
 ### Hello World, I'm Vincent 👋
 
- <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
+ <img align="right" alt="GIF" src="https://remakelearning.org/wp-content/uploads/2020/01/122.gif" width="500" height="320" />
 
 
 ## I'm a Software Engineer Student !!
@@ -31,12 +31,7 @@
 
 </details>
 
-<details>
-  <summary>:zap: Most Used Languages</summary>
 
-<img align="left" alt="Vincent's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VincentBernet" />
-
-</details>
 
 
 
