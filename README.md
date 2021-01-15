@@ -32,7 +32,7 @@
 [<img align ="left" alt="Java" width="33px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />][Temporary]
 [<img align ="left" alt="Git" width="33px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />][Temporary]
 [<img align ="left" alt="Git" width="33px" src="https://simpleicons.org/icons/github.svg" />][Temporary]
-<img src="https://komarev.com/ghpvc/?username=vincentbernet&label=Profile%20views&color=0e75b6&style=flat" alt="vincentbernet" />
+<img align="right" src="https://komarev.com/ghpvc/?username=vincentbernet&label=Profile%20views&color=0e75b6&style=flat" alt="vincentbernet" />
 
 
 
