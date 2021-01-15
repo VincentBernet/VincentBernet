@@ -3,7 +3,7 @@
  <img align="right" alt="GIF" src="https://miro.medium.com/max/2400/1*CgjvOHqRTMXw2i8m7Mdo0w.gif" height="400" />
 
 
-## I'm a Software Engineer Student !!
+## I'm a Software Engineer Student !
 - ✍ You can find my projects here [portfolio]
 - 🌱 I’m currently learning React Native
 - 👯 I’m looking to collaborate on open source
@@ -34,6 +34,6 @@
 
 
 
-
+[portofolo]: https://github.com/VincentBernet?tab=repositories
 [instagram]: https://linktr.ee/VincentBernet
 [linkedin]: https://www.linkedin.com/in/vincent-bernet-028a64193/
