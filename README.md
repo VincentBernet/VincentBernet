@@ -1,7 +1,7 @@
 ### Hello World, I'm Vincent 👋
  
  <img align="right" alt="GIF" src="https://miro.medium.com/max/2400/1*CgjvOHqRTMXw2i8m7Mdo0w.gif" height="350" />
-<img src="https://komarev.com/ghpvc/?username=vincentbernet&label=Profile%20views&color=0e75b6&style=flat" alt="vincentbernet" />
+
 
 ## I'm a Software Engineer Student !
 - ✍ You can find my projects [here]
@@ -32,6 +32,7 @@
 [<img align ="left" alt="Java" width="33px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />][Temporary]
 [<img align ="left" alt="Git" width="33px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />][Temporary]
 [<img align ="left" alt="Git" width="33px" src="https://simpleicons.org/icons/github.svg" />][Temporary]
+<img src="https://komarev.com/ghpvc/?username=vincentbernet&label=Profile%20views&color=0e75b6&style=flat" alt="vincentbernet" />
 
 
 
