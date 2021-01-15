@@ -1,4 +1,3 @@
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=vincentbernet&label=Profile%20views&color=0e75b6&style=flat" alt="vincentbernet" /> </p>
 ### Hello World, I'm Vincent 👋
  
  <img align="right" alt="GIF" src="https://miro.medium.com/max/2400/1*CgjvOHqRTMXw2i8m7Mdo0w.gif" height="350" />
@@ -39,7 +38,7 @@
 <br />
 <br />
 ---
-<br />
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=vincentbernet&label=Profile%20views&color=0e75b6&style=flat" alt="vincentbernet" /> </p>
 <detail>
   <summary>:zap: GitHub Stats</summary>
 
