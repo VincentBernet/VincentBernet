@@ -24,8 +24,10 @@
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][Temporary]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][Temporary]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][Temporary]
+
+[<img height="26px" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/php.svg">][Temporary]
 [<img align="left" alt="CSharp" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />][Temporary]
-<img height="26px" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/php.svg">
+[<img align="left" alt="CSharp" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />][Temporary]
 
 
 <br />
@@ -35,7 +37,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Vincent's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=VincentBernet&show_icons=true&hide_border=true" />
+  <img align="left" alt="Vincent's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=VincentBernet&show_icons=true&hide_border=true&theme=merko" />
 
 </details>
 
