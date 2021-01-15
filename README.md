@@ -24,6 +24,7 @@
 [<img align="left" alt="Visual Studio Code" width="33px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][Temporary]
 [<img align="left" alt="HTML5" width="33px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][Temporary]
 [<img align="left" alt="CSS3" width="33px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][Temporary]
+[<img align ="left" alt="Sass" width="33px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" />][Temporary]
 [<img align="left" alt="JavaScript" width="33px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][Temporary]
 
 [<img align="left" alt="Php" height="33" src="https://seeklogo.com/images/P/php-logo-ADE513E748-seeklogo.com.png">][Temporary]
@@ -31,7 +32,7 @@
 [<img align ="left" alt="Java" width="33px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />][Temporary]
 [<img align ="left" alt="Git" width="33px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />][Temporary]
 [<img align ="left" alt="Git" width="33px" src="https://simpleicons.org/icons/github.svg" />][Temporary]
-[<img align ="left" alt="Sass" width="33px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" />][Temporary]
+
 
 
 <br />
