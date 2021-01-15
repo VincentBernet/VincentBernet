@@ -5,7 +5,7 @@
 
 ## I'm a Software Engineer Student !
 - ✍ You can find my projects [here]
-- 📈 I’m currently working on my own portofollio
+- 📈 I’m currently working on my own portfollio
 - 🌱 Learning Vue.js to build it 
 - 👯 I’m looking to collaborate on open source
 - 💬 Ask me about ... Anything
