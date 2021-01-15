@@ -26,7 +26,7 @@
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][Temporary]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][Temporary]
 
-[<img align="left" alt="Php" width="76px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">][Temporary]
+[<img align="left" alt="Php" width="76px" height="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">][Temporary]
 [<img align="left" alt="C#" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" />][Temporary]
 [<img align ="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />][Temporary]
 [<img align ="left" alt="Git" width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />][Temporary]
