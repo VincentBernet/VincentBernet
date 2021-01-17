@@ -48,7 +48,7 @@
 </detail>
 
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VincentBernet&hide=JupyterNoteBook)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VincentBernet&hide="Jupyter NoteBook")](https://github.com/anuraghazra/github-readme-stats)
 
 
 
