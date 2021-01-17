@@ -48,6 +48,12 @@
 </detail>
 
 
+  <img align="center" src="https:/github-readme-stats.vercel.app/api/top-langs/?username=VincentBernet&layout=compact&theme=material-palenight" />
+
+
+
+
+
 
 
 [Temporary]: https://github.com/VincentBernet
