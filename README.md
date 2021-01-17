@@ -9,6 +9,7 @@
 - 🌱 Learning Vue.js to build it 
 - 👯 I’m looking to collaborate on open source
 - 💬 Ask me about ... Anything
+-    Passionate about Esport, philosphie and web development
 - ⚡ Fun fact: We won french national championship of **League of Legends** in 2019
 
 
