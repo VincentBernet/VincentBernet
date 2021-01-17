@@ -48,7 +48,7 @@
 </detail>
 
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VincentBernet&hide=javascript,python&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VincentBernet&exclude_repo=Tirico-ShopCameraAnalitics,python&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
