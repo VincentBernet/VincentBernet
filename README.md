@@ -44,7 +44,7 @@
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="Vincent's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=VincentBernet&show_icons=true&hide_border=true&theme=tokyonight" />
-  <img align="right" alt="Vincent's Github Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VincentBernet&exclude_repo=Tirico-ShopCameraAnalitics&layout=compact&theme=tokyonight)" />
+  <img align="right" alt="Vincent's Github Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VincentBernet&exclude_repo=Tirico-ShopCameraAnalitics&layout=compact&theme=tokyonight" />
 </details>
 
 
