@@ -9,7 +9,7 @@
 - 🌱 Learning Vue.js to build it 
 - 👯 I’m looking to collaborate on open source
 - 💬 Ask me about ... Anything
-- ⚡ Fun fact: We won french student championship of League of Legends in 2019
+- ⚡ Fun fact: We won french national championship of **League of Legends** in 2019
 
 
 ### Contact me :
