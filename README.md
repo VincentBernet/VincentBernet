@@ -7,10 +7,9 @@
 - ✍ You can find my projects [here]
 - 📈 I’m currently working on my own portfollio
 - 🌱 Learning Vue.js to build it 
-- 👯 I’m looking to collaborate on open source
-- 💬 Ask me about ... Anything
-- 💜 Passionate about Esport, philosphy and web development
-- ⚡ Fun fact: We won french national championship of **League of Legends** in 2019
+- 💬 Ask me about ... anything, i'm broad-minded
+- 💜 Passionate about Esport, Philosphy and Web Development
+- ⚡ Fun fact: We won university's french national championship of **League of Legends** in 2019
 
 
 ### Contact me :
