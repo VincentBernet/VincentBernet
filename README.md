@@ -4,8 +4,8 @@
 <img align="right" alt="GIF" src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" height="350"  />
 
 ## I'm a Software Engineer Student !
-- ✍ You can find my projects [here]
-- 📈 I’m currently working on my own portfollio
+- ✍ You can find my **projects** [here]
+- 📈 I’m currently working on my own **portfollio**
 - 🌱 Learning Vue.js to build it 
 - 💬 Ask me about ... anything, i'm broad-minded
 - 💜 Passionate about **Esport**, **Philosphy** and **Web Development**
