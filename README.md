@@ -9,7 +9,7 @@
 - 🌱 Learning Vue.js to build it 
 - 💬 Ask me about ... anything, i'm broad-minded
 - 💜 Passionate about **Esport**, **Philosphy** and **Web Development**
-- ⚡ Fun fact: We won university's french national championship of **League of Legends** in 2019
+- ⚡ Fun fact : We won university's french national championship of **League of Legends** in 2019
 
 
 ### Contact me :
