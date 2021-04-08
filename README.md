@@ -5,7 +5,7 @@
 
 ## I'm a Software Engineer Student !
 - ✍ You can find my **projects** [here]
-- 📈 I’m currently working with my team on a shopper flow analytics app : **Tirico**
+- 📈 I’m currently working with my team on a shopper flow analytics app : **Tirico** **[Tirico]**
 - 🌱 Currently seeking for an intership in september 2021
 - 💬 Ask me about ... anything, i'm broad-minded
 - 💜 Passionate about **Esport**, **Philosphy** and **Web Development**
@@ -59,5 +59,6 @@
 
 [Temporary]: https://github.com/VincentBernet
 [here]: https://vincent-bernet.com/
+[Tirico]: https://github.com/VincentBernet/Tirico-ShopCameraAnalitics
 [linktr]: https://linktr.ee/VincentBernet
 [linkedin]: https://www.linkedin.com/in/vincent-bernet-028a64193/
