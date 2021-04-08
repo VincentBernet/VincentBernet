@@ -4,8 +4,8 @@
 <img align="right" alt="GIF" src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" height="350"  />
 
 ## I'm a Software Engineer Student !
-- ✍ You can find my **projects** [here]
-- 📈 I’m currently working with my team on a shopper flow analytics app : **Tirico** **[Tirico]**
+- ✍ You can find my **projects** **[here]**
+- 📈 I’m currently working with my team on a shopper flow analytics app : **[Tirico]**
 - 🌱 Currently seeking for an intership in september 2021
 - 💬 Ask me about ... anything, i'm broad-minded
 - 💜 Passionate about **Esport**, **Philosphy** and **Web Development**
