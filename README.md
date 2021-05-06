@@ -8,7 +8,7 @@
 - 📈 I’m currently working with my team on a shopper flow analytics app : **[Tirico]**
 - 🌱 Currently seeking for an intership in september 2021
 - 💬 Ask me about ... anything, i'm broad-minded
-- 💜 Passionate about **Esport**, **Philosphy** and **Web Development**
+- 💜 Passionate about **Esport**, **Philosophy** and **Web Development**
 - ⚡ Fun fact : We won university's french national championship of **League of Legends** in 2019
 
 
