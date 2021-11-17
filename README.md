@@ -27,10 +27,10 @@
 [<img align="left" alt="JavaScript" width="33px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][Temporary]
 
 [<img align="left" alt="Php" height="33" src="https://seeklogo.com/images/P/php-logo-ADE513E748-seeklogo.com.png">][Temporary]
-<img align="left" alt="C#" width="33" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" />
+[<img align="left" alt="C#" width="33" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" />][Temporary]
 [<img align ="left" alt="Java" width="33px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />][Temporary]
 [<img align ="left" alt="Git" width="33px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />][Temporary]
-<img align ="left" alt="Git" width="33px" src="https://simpleicons.org/icons/github.svg" />
+[<img align ="left" alt="Git" width="33px" src="https://simpleicons.org/icons/github.svg" />][Temporary]
 <img align="right" src="https://komarev.com/ghpvc/?username=vincentbernet&label=Profile%20views&color=0e75b6&style=flat" alt="vincentbernet" />
 
 
