@@ -8,7 +8,7 @@
 - 📈 I’m currently working at **Société Générale** as a full stack developper
 - 💬 Ask me about ... anything, i'm broad-minded
 - 💜 Passionate about **Esport**, **Philosophy** and **Web Development**
-- ⚡ Fun fact : We won university's french national championship of **League of Legends** in 2019
+- 🏆 Fun fact : We won university's french national championship of **League of Legends** in 2019
 
 
 ### Contact me :
