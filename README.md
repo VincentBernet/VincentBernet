@@ -4,11 +4,11 @@
 <img align="right" alt="GIF" src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" height="350"  />
 
 ## I'm a Software Engineer Student !
-- ✍ You can find my **projects** **[here]**
+- ✍ You can find my **projects** **[there]**
 - 📈 I’m currently working at **Société Générale** as a full stack developper
 - 💬 Ask me about ... anything, i'm broad-minded
 - 💜 Passionate about **Esport**, **Philosophy** and **Web Development**
-- 🏆 Fun fact : We won university's french national championship of **League of Legends** in 2019
+- 🏆 **Fun fact** : We won university's french national championship of **[League of Legends](https://www.youtube.com/watch?v=tsP6mlctS9U)** in 2019
 
 
 ### Contact me :
@@ -37,24 +37,9 @@
 <br>
 <br>
 
----
- 
-<!--
-  <img alt="Vincent's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=VincentBernet&show_icons=true&hide_border=true&theme=tokyonight&&layout=compact" />
-  <img alt="Vincent's Github Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VincentBernet&exclude_repo=Tirico-ShopCameraAnalitics&theme=tokyonight&layout=compact" /> -->
-
-
-  
-
-
-
-
-
-
-
 
 [Temporary]: https://github.com/VincentBernet
-[here]: https://vincent-bernet.com/
+[there]: https://vincent-bernet.com/
 [Tirico]: https://github.com/VincentBernet/Tirico-ShopCameraAnalitics
 [linktr]: https://linktr.ee/VincentBernet
 [linkedin]: https://www.linkedin.com/in/vincent-bernet-028a64193/
