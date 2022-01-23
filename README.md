@@ -5,7 +5,7 @@
 
 ## I'm a Software Engineer Student !
 - ✍ You can find my **projects** **[there]**
-- 📈 I’m currently working at **Société Générale** as a full stack developper
+- 📈 I’m currently working at **Société Générale** as a full stack developer
 - 💬 Ask me about ... anything, i'm broad-minded
 - 💜 Passionate about **Esport**, **Philosophy** and **Web Development**
 - 🏆 **Fun fact** : We won university's french national championship of **[League of Legends](https://www.youtube.com/watch?v=tsP6mlctS9U)** in 2019
