@@ -1,7 +1,5 @@
-### Hello World, I'm Vincent 👋
- 
- <!-- <img align="right" alt="GIF" src="https://miro.medium.com/max/2400/1*CgjvOHqRTMXw2i8m7Mdo0w.gif" height="350" /> -->
-<img align="right" alt="GIF" src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" height="350"  />
+# Hello World, I'm Vincent 👋  <img align="right" src="https://komarev.com/ghpvc/?username=vincentbernet&label=Profile%20views&color=0e75b6&style=flat" alt="vincentbernet" />
+
 
 ## I'm a Software Engineer Student !
 - ✍ You can find my **projects** **[there]**
@@ -12,26 +10,29 @@
 
 
 ### Contact me :
-[<img align="left" alt="Vincent Bernet | LinkedIn" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Vincent Bernet | LinkedIn" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />][linkedin]
 [<img align="left" alt="Vincent Bernet | Linktr" width="32px" src="https://img.icons8.com/color/48/000000/linktree.svg"/>][linktr]
 
 <br />
 
 
-### Languages and Tools:
+### What do i have in my toolbox :
 
-[<img align="left" alt="Visual Studio Code" width="33px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][Temporary]
+[<img align="left" alt="TypeScript" width="33px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />][Temporary]
+[<img align="left" alt="JavaScript" width="33px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][Temporary]
 [<img align="left" alt="HTML5" width="33px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][Temporary]
 [<img align="left" alt="CSS3" width="33px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][Temporary]
 [<img align ="left" alt="Sass" width="33px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" />][Temporary]
-[<img align="left" alt="JavaScript" width="33px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][Temporary]
 
-[<img align="left" alt="Php" height="33" src="https://seeklogo.com/images/P/php-logo-ADE513E748-seeklogo.com.png">][Temporary]
-[<img align="left" alt="C#" width="33" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" />][Temporary]
-[<img align ="left" alt="Java" width="33px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />][Temporary]
-[<img align ="left" alt="Git" width="33px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />][Temporary]
-[<img align ="left" alt="Git" width="33px" src="https://simpleicons.org/icons/github.svg" />][Temporary]
-<img align="right" src="https://komarev.com/ghpvc/?username=vincentbernet&label=Profile%20views&color=0e75b6&style=flat" alt="vincentbernet" />
+
+[<img align="left" alt="Git" width="33px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />][Temporary]
+[<img align="left" alt="Github" width="33px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />][Temporary]
+[<img align="left" alt="Java" width="33px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />][Temporary]<br>
+
+
+[<img align="left" alt="Node.js" width="83px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />][Temporary]
+[<img align="left" alt="Nest.js" width="83px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain-wordmark.svg" />][Temporary]
+
 
 
 <br>
