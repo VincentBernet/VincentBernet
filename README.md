@@ -11,7 +11,7 @@
 
 ### Contact me :
 [<img align="left" alt="Vincent Bernet | LinkedIn" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />][linkedin]
-[<img align="left" alt="Vincent Bernet | Linktr" width="32px" src="https://img.icons8.com/color/48/000000/linktree.svg"/>][linktr]
+[<img align="left" alt="Vincent Bernet | Linktr" width="32px" src="https://cdn.worldvectorlogo.com/logos/linktree-2.svg"/>][linktr]
 
 <br />
 
