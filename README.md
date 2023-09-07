@@ -1,7 +1,7 @@
 # Hello World, I'm Vincent 👋  <img align="right" src="https://komarev.com/ghpvc/?username=vincentbernet&label=Profile%20views&color=0e75b6&style=flat" alt="vincentbernet" />
 
 
-## I'm a Software Engineer Student !
+## I'm a Software Engineer !
 - ✍ You can find my **projects** **[there]**
 - 📈 I’m currently working at **Société Générale** as a full stack developer
 - 💬 Ask me about ... anything, i'm broad-minded
