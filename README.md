@@ -27,7 +27,6 @@
 
 [<img align="left" alt="Git" width="33px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />][Temporary]
 [<img align="left" alt="Github" width="33px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />][Temporary]
-[<img align="left" alt="Java" width="33px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />][Temporary]<br>
 
 
 [<img align="left" alt="Node.js" width="83px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />][Temporary]
