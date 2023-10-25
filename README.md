@@ -6,7 +6,7 @@
 - 🏆 **Fun fact** : We won university's french national championship of **[League of Legends](https://www.youtube.com/watch?v=tsP6mlctS9U)** in 2019
 - 💬 Ask me about ... anything, i'm broad-minded
 
-## What do i have in my toolbox :d
+## What do i have in my toolbox :
 
 [<img align="left" alt="HTML5" width="33px" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" />][react]
 [<img align="left" alt="Node.js" width="83px" src="https://nodejs.org/static/images/logo.svg" />][nodejs]
