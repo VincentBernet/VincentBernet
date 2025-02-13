@@ -1,7 +1,7 @@
 # Hi folks 👋  <img align="right" src="https://komarev.com/ghpvc/?username=vincentbernet&label=Profile%20views&color=0e75b6&style=flat" alt="vincentbernet" />
 
 
-## About me !
+## About me :
 - 💜 Passionate about **Esport**, **Competition** and **Web Development**
 - 🏆 **Fun fact** : We won university's french national championship of **[League of Legends](https://www.youtube.com/watch?v=tsP6mlctS9U)** in 2019
 - 💬 Ask me about ... anything, i'm broad-minded
