@@ -1,4 +1,4 @@
-# Hi folks 👋  <img align="right" src="https://komarev.com/ghpvc/?username=vincentbernet&label=Profile%20views&color=0e75b6&style=flat" alt="vincentbernet" />
+# Hi folks 👋
 
 
 ## About me :
