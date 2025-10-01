@@ -4,6 +4,7 @@
 ## About me :
 - 💜 Passionate about **(e)Sport**, **Cooking** & **Web Development**
 - 📚 Currently learning to craft intuitive interfaces and seamless UX for AI-powered features
+- 👷 Love building scalable design system at work
 - 🏆 **Fun fact** : We won university's french national championship of **[League of Legends](https://www.youtube.com/watch?v=tsP6mlctS9U)** in 2019
 - 💬 Ask me about ... anything, i'm broad-minded
 
